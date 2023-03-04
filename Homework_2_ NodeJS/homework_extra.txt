@@ -1,0 +1,2 @@
+This is new file imported from module
+With an exported function
