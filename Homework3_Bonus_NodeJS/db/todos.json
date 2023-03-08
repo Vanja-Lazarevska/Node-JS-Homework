@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "name": "Walk the dog",
+    "done": false
+  },
+  {
+    "id": "3",
+    "name": "Watch anime",
+    "done": true
+  },
+  {
+    "id": "c7cf66b4-6641-4de0-bacf-62cd93c26da9",
+    "name": "Study NodeJs",
+    "done": false
+  },
+  {
+    "id": "4c7fb093-201e-4d49-aa13-e5a06d4e73ad",
+    "name": "Go to the gym",
+    "done": false
+  },
+  {
+    "id": "f5689a7e-56ee-4ebd-95b4-0508903d272a",
+    "name": "Clean the room",
+    "done": true
+  }
+]
