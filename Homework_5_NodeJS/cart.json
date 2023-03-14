@@ -1,0 +1,29 @@
+[
+  {
+    "id": "3",
+    "name": "pyjamas",
+    "price": 30,
+    "rating": "good",
+    "description": "Saten three part pyjamas",
+    "category": "sleepwear",
+    "isInStock": false
+  },
+  {
+    "id": "4",
+    "name": "socks",
+    "price": 10,
+    "rating": "excellent",
+    "description": "designed socks",
+    "category": "socks",
+    "isInStock": true
+  },
+  {
+    "id": "5",
+    "name": "shirt",
+    "price": 20,
+    "rating": "very good",
+    "description": "striped shirt",
+    "category": "everyday wear",
+    "isInStock": true
+  }
+]
