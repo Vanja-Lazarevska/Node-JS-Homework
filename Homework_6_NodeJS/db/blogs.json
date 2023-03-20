@@ -1,0 +1,30 @@
+[
+  {
+    "id": "4",
+    "title": "Healthy Lifestyle",
+    "body": "Eating healthy is an important part of living a healthy lifestyle. But, with so many different opinions on what it means to eat healthy, it can be difficult to know where to start when it comes to making sure your nutritional needs are met each day. Fortunately, there are some simple tips that can help you make sure you get all the nutrients your body needs.",
+    "author": "Sem Hanna",
+    "date": "2/4/2022",
+    "tags": [
+      "healthy",
+      "lifestyle",
+      "food",
+      "healthysh",
+      "eatgood"
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Photography and editing",
+    "body": "Photography is our universal language. To stay connected to it, and to one another, we have to do what we do best: keep learning. While many of us are at home and while things feel different, we hope that you feel encouraged to keep editing and creating with whatever time you may have. ",
+    "author": "Anna Smith",
+    "date": "6/21/2020",
+    "tags": [
+      "photogtaphy",
+      "editing",
+      "photo",
+      "blog",
+      "true"
+    ]
+  }
+]
