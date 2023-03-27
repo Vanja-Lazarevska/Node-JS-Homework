@@ -1,0 +1,55 @@
+[
+  {
+    "id": "4",
+    "title": "Healthy Lifestyle",
+    "body": "Eating healthy is an important part of living a healthy lifestyle. But, with so many different opinions on what it means to eat healthy, it can be difficult to know where to start when it comes to making sure your nutritional needs are met each day. Fortunately, there are some simple tips that can help you make sure you get all the nutrients your body needs.",
+    "author": "Sem Hanna",
+    "date": "2/4/2022",
+    "tags": [
+      "healthy",
+      "lifestyle",
+      "food",
+      "healthysh",
+      "eatgood"
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Photography and editing",
+    "body": "Photography is our universal language. To stay connected to it, and to one another, we have to do what we do best: keep learning. While many of us are at home and while things feel different, we hope that you feel encouraged to keep editing and creating with whatever time you may have. ",
+    "author": "Anna Smith",
+    "date": "6/21/2020",
+    "tags": [
+      "photography",
+      "editing",
+      "photo",
+      "blog",
+      "true"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Weather blog",
+    "body": "Tomorrow will be a mostly sunny, warm day with a high in the 80-85 degree range. The day Friday will also be warm and dry with a mix of sun and clouds… temperatures rise into the low to mid 80s again. South winds will increase by afternoon.FRIDAY NIGHT: A cold front will push an organized band of thunderstorms into Alabama Friday night into the pre-dawn hours Saturday. SPC has defined a slight risk (level 2/5) of severe storms for areas west of a line from Fort Payne to Verbena to Camden to Jackson. A marginal risk extends as far east and south as Opelika and Geneva.",
+    "author": "Bill Simson",
+    "date": "2023-03-22T14:17:02.161Z",
+    "tags": [
+      "weather",
+      "sunny",
+      "temperature"
+    ]
+  },
+  {
+    "id": "17",
+    "title": "Music Blog",
+    "body": "Music fans have never had so much choice when it comes to keeping up with the latest music news and releases. But, as always with so much choice, it’s difficult to know which sites are worth reading, and which aren’t.That’s why we’ve compiled this list of the best music blogs, online music magazines and music discovery sites.Whether you’re into Indie Rock, Pop, EDM, or Hip Hop you can find your new favourite music blog here.",
+    "author": "Jasmin Bolt",
+    "date": "2023-03-23T15:11:05.828Z",
+    "tags": [
+      "music",
+      "hits",
+      "hitMusic",
+      "trending"
+    ]
+  }
+]

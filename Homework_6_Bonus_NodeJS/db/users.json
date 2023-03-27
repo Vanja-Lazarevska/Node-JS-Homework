@@ -1,0 +1,23 @@
+[
+    {
+        "fullname": "Bob Bobski",
+        "age": "27",
+        "role": "author",
+        "username": "bobz685",
+        "password": "1234"
+    },
+    {
+        "fullname": "Jack Keln",
+        "age": 47,
+        "role": "reader",
+        "username": "jackkeln",
+        "password": "98765"
+    }, 
+    {
+        "fullname": "Sara Wels",
+        "age": 38,
+        "role": "editor",
+        "username": "sara555",
+        "password": "3333"
+    }
+]
